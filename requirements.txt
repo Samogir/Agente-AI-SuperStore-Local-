@@ -1,0 +1,8 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain-experimental
+ollama 
+pandas
+tabulate
+
